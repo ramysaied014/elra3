@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding:0;
+background-image: url(/images/design/Untitled-1.jpg);
+}
+
+
+.pc{
+    position:absolute;
+    top: 250px;
+    left: 350px ;
+    font-size: 100px;
+} 
+.mobile{
+    font-size: 100px;
+    position: absolute;
+    top: 250px;
+    left: 750px;
+}
+.pc:hover{
+    font-size: 130px;
+    color: black;
+}
+.mobile:hover{
+    font-size: 130px;
+    text-decoration: none;
+    color: black;
+}
